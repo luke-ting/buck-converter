@@ -20,12 +20,12 @@ This project was created to learn PCB design and power electronics through the d
 1. Defined electrical requirements
 2. Designed the power stage
 3. Simulated the circuit in LTspice
-4. Created the schematic in KiCad. (schematic from GreatScott!)
+4. Created the schematic in KiCad. (credit: GreatScott!)
 5. Selected components and footprints
 6. Designed the PCB layout
 7. Ran ERC and DRC
-8. Ordered and assembled the PCB
-9. Tested voltage regulation, ripple, and efficiency
+8. Ordered the PCB
+9. Currently assembly and testing voltage regulation, ripple, and efficiency
 
 ## PCB
 
@@ -33,4 +33,4 @@ Images and design details will be added here.
 
 ## Results
 
-Testing results will be added after board bring-up.
+Testing results will be added soon.
